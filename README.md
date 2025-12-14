@@ -34,4 +34,4 @@ User confidence and transparency
 
 Alignment with smart-city and sustainability use cases
 
-🚀 Live Demo : 
+🚀 Live Demo :  https://broforce13377.github.io/Ecocycle-2.0-IOT-Verfication-Visuial-/
